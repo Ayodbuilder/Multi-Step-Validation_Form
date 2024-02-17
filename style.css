@@ -430,12 +430,12 @@
     border-radius: 50%;
   }
 
-
+/* Media queries */
   @media screen and (max-width: 800px) {
     body {
       position: relative;
     }
-    .sidebar {
+    .select-sidebar {
       position: fixed;
       top: 0;
       left: 0;
